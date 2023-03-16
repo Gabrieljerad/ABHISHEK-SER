@@ -37,10 +37,10 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['919074692450','']
-global.premium = ['919074692450','919074692450']
-global.botname = 'ABHISHEK-SER'
-global.ownername = 'Abhishek Suresh'
+global.owner = ['254762065033','']
+global.premium = ['254762065033','254762065033']
+global.botname = 'Gabby'
+global.ownername = 'Gabby'
 global.group1 = 'https://chat.whatsapp.com/B7QtwpUd2RMAVQ57KzosBj'
 global.group2 = 'https://chat.whatsapp.com/B7QtwpUd2RMAVQ57KzosBj'
 global.packname = 'ABHISHEK-SER'
